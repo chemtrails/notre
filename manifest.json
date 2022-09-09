@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "notre",
+    "description": "a simple notepad",
+    "version": "0.1",
+    "action": {
+        "default_title": "notre",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "storage"
+    ]
+}
